@@ -63,7 +63,7 @@ const Header: React.FC<HeaderProps> = ({ activeSection, onNavClick }) => {
             <div className="flex items-center">
                 <a href="#home" onClick={(e) => handleLinkClick(e, 'home')} className="inline-block">
                     <img 
-                        src="/logotm.png" 
+                        src="/HyTork/logotm.png" 
                         alt="Hytork Motors" 
                         className="h-12 md:h-14 lg:h-16 w-auto object-contain transition-transform hover:scale-105"
                     />
