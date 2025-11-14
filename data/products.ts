@@ -17,7 +17,7 @@ export const productsData: Product[] = [
         title: 'ATM 80',
         category: 'MOBILITY',
         modalCategory: 'MOBILITY - B2B & B2C',
-        image: '/HyTork/atom.JPG',
+        image: 'atom.JPG',
         shortDescription: 'Compact micro-mobility vehicle for efficient material handling in warehouses and industrial facilities.',
         longDescription: 'ATOM is a compact and agile micro-mobility vehicle designed for efficient material handling in tight spaces such as warehouses and industrial facilities. It combines a mid-mounted differential motor with a lightweight chassis to deliver excellent maneuverability and operational safety.',
         features: [
@@ -47,7 +47,7 @@ export const productsData: Product[] = [
         title: 'ATM 120',
         category: 'MOBILITY',
         modalCategory: 'MOBILITY - B2B & B2C',
-        image: '/HyTork/atom_xl.jpg',
+        image: 'atom_xl.jpg',
         shortDescription: 'Extended wheelbase variant with higher payload capacity for heavy-duty industrial logistics.',
         longDescription: 'ATOM XL extends the ATOM lineup with a longer wheelbase and higher payload capacity, ideal for heavy-duty industrial logistics. It offers both Walk-E and Drive modes, providing versatility for different operational requirements.',
         features: [
@@ -77,7 +77,7 @@ export const productsData: Product[] = [
         title: 'i-ATM',
         category: 'MOBILITY',
         modalCategory: 'MOBILITY - B2B (Autonomous)',
-        image: '/HyTork/atom_ixl.jpg',
+        image: 'atom_ixl.jpg',
         shortDescription: 'Autonomous variant with vision-based lane follower system for self-driving operations.',
         longDescription: 'ATOM-iXL is an autonomous variant equipped with a vision-based lane follower system. It enables self-driving operation within controlled environments, ensuring efficiency and safety without human intervention.',
         features: [
@@ -106,7 +106,7 @@ export const productsData: Product[] = [
         title: 'Cylion Battery Pack',
         category: 'POWER SYSTEMS',
         modalCategory: 'POWER SYSTEMS',
-        image: '/HyTork/cyclion.jpg',
+        image: 'cyclion.jpg',
         shortDescription: 'Compact cylindrical battery pack with natural cooling for e-bikes and small electric vehicles.',
         longDescription: 'Cylion is a compact cylindrical battery pack engineered with natural cooling for e-bikes and small electric vehicles. It offers high energy density and superior thermal stability in a sleek, modular form factor.',
         features: [
@@ -131,7 +131,7 @@ export const productsData: Product[] = [
         title: 'Belt Drive System',
         category: 'DRIVE SYSTEMS',
         modalCategory: 'DRIVE SYSTEMS',
-        image: '/HyTork/Belt_Drive.jpg',
+        image: 'Belt_Drive.jpg',
         shortDescription: 'Maintenance-free drive system enhancing cycling efficiency by 34% compared to chain drives.',
         longDescription: 'This lightweight, maintenance-free belt drive system enhances cycling efficiency by 34% compared to conventional chain drives. Built for all-weather durability, it ensures smooth and silent power transmission.',
         features: [
@@ -156,7 +156,7 @@ export const productsData: Product[] = [
         title: 'Universal Belt Tool',
         category: 'TOOLS',
         modalCategory: 'TOOLS',
-        image: '/HyTork/universal_tool.jpg',
+        image: 'universal_tool.jpg',
         shortDescription: 'Versatile tool for automotive engine belt installation and removal.',
         longDescription: 'The Universal Belt Tool simplifies belt installation and removal for automotive engines. It is a versatile tool designed to improve servicing convenience and safety.',
         features: [

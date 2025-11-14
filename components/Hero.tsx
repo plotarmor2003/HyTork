@@ -50,7 +50,7 @@ const Hero = forwardRef<HTMLElement>((props, ref) => {
                         <div className="relative w-full max-w-lg">
                              <div className="absolute -inset-4 bg-gradient-to-r from-green-200 to-green-300 rounded-full opacity-30 blur-2xl"></div>
                             <img 
-                                src="/HyTork/atom_xl.jpg" 
+                                src="atom_xl.jpg" 
                                 alt="HyTork ATOM-iXL Autonomous Vehicle" 
                                 className="relative w-full h-auto object-cover rounded-2xl shadow-2xl"
                             />
